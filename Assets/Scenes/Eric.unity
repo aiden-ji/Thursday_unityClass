@@ -301,6 +301,36 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &301840539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 301840540}
+  m_Layer: 0
+  m_Name: playmaker
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &301840540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 301840539}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -444.42715, y: -165.91486, z: -10535.426}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &580928358
 GameObject:
   m_ObjectHideFlags: 0
@@ -376,7 +406,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 580928358}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.7, y: -2.7, z: 0}
+  m_LocalPosition: {x: -0.4, y: -1.6, z: 0}
   m_LocalScale: {x: 2.3565948, y: 1.7399615, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1051,8 +1081,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 296.44, y: -53.31}
-  m_SizeDelta: {x: 160.46088, y: 61.01982}
+  m_AnchoredPosition: {x: 0, y: -146.66}
+  m_SizeDelta: {x: 176.04895, y: 111.68085}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1533308780
 MonoBehaviour:
@@ -1203,9 +1233,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'goto next page
-
-'
+  m_Text: "goto \nnext page"
 --- !u!222 &1632262668
 CanvasRenderer:
   m_ObjectHideFlags: 0
