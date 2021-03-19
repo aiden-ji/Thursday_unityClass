@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/\uC815\uD604.unity"
+    path: Assets/Scenes/jung.unity
     guid: b42f97f071de7e14dbae69022b29c4b7
   - enabled: 1
     path: Assets/Scenes/Eric.unity
     guid: 3f4f3e745220daa44a72880bb167cc81
   - enabled: 1
-    path: Assets/goal!!!.unity
+    path: Assets/Scenes/goal.unity
     guid: 1fec82b6570325448bb4172a074f07b0
   m_configObjects: {}
