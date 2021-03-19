@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Assets/202380bc0b522b489584e56edd8169d5.png.meta
-<<<<<<< HEAD
-guid: 814815953e7bde447b0b4614eac0798b
-=======
-guid: e390832f6c04b244fa777a7755da9b23
->>>>>>> 9b944b7d769b7a847eec1ee27dfecb70ce5fdf2f
-=======
-guid: 7f3f3858fa0984549b14aeb51f5f8c26
->>>>>>> adb462be9919cb764268808a8ef499b2096b261a:Assets/139512.jpg.meta
+guid: a5f4f7a38b42ee344906ca0c1f077db5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
