@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/PlayMaker/Versions/PlaymakerPreview.unitypackage.meta
+Assets/PlayMaker/Versions/PlaymakerDefault.unitypackage.meta
+Assets/PlayMaker/Editor/Install/ProfilerActions.unitypackage.meta
+Assets/PlayMaker/Editor/Install/Playmaker.1.9.1.unitypackage.meta
+Assets/PlayMaker/Editor/Install/LegacyNetworking.unitypackage.meta
+Assets/PlayMaker/Editor/Install/LegacyITween.unitypackage.meta
+Assets/PlayMaker/Editor/Install/LegacyGUI.unitypackage.meta
+Packages/packages-lock.json
