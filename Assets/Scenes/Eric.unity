@@ -2382,7 +2382,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: -31
+          value: 31
         - useVariable: 1
           name: 
           tooltip: 
@@ -2397,7 +2397,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: -31, y: 50}
+          value: {x: 31, y: 50}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
@@ -2468,7 +2468,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 31
+          value: -31
         - useVariable: 1
           name: 
           tooltip: 
@@ -2483,7 +2483,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 31, y: 50}
+          value: {x: -31, y: 50}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
