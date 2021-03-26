@@ -1151,7 +1151,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -109.82}
+  m_AnchoredPosition: {x: 13, y: -371}
   m_SizeDelta: {x: 225.2395, y: 47.919052}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &1065919442
@@ -2585,7 +2585,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 31
+          value: -31
         - useVariable: 1
           name: 
           tooltip: 
@@ -2600,7 +2600,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 31, y: 50}
+          value: {x: -31, y: 50}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
@@ -2671,7 +2671,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: -31
+          value: 31
         - useVariable: 1
           name: 
           tooltip: 
@@ -2686,7 +2686,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: -31, y: 50}
+          value: {x: 31, y: 50}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
