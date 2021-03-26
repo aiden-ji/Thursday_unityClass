@@ -1536,7 +1536,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 120
+          value: 200
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params:
@@ -1545,7 +1545,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: -50, y: 120}
+          value: {x: -50, y: 200}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
@@ -1622,7 +1622,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 120
+          value: 200
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params:
@@ -1631,7 +1631,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: {x: 49.999996, y: 120}
+          value: {x: 49.999996, y: 200}
         fsmVector3Params: []
         fsmColorParams: []
         fsmRectParams: []
