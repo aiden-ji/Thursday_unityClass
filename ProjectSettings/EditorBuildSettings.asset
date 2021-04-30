@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/jung.unity
-    guid: b42f97f071de7e14dbae69022b29c4b7
-  - enabled: 1
-    path: Assets/Scenes/Eric.unity
-    guid: 3f4f3e745220daa44a72880bb167cc81
-  - enabled: 1
-    path: Assets/Scenes/third sence.unity
-    guid: 24efea9c4e80585408b3277e0c929595
-  - enabled: 1
-    path: Assets/Scenes/goal.unity
-    guid: 1fec82b6570325448bb4172a074f07b0
+    path: "Assets/\uD0C0\uC774\uD2C0.unity"
+    guid: 13cdd8c0c9bf8bf4f9dba87b66e361fe
   m_configObjects: {}
